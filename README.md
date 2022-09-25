@@ -1,1 +1,1 @@
-# p8105_hw1_yz
+# Homework 1 for P8105
